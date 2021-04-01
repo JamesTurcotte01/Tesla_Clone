@@ -1,0 +1,2 @@
+# Tesla_Clone
+Created a clone of tesla website following a guide by Savinvadim1312 in order to teach myself react native. The code used is the same as the code used on this users Tesla-clone-repo but was typed by me following his youtube tutorial. **I do not take credit for the content of this repo but wanted to showcase my familiarity with React-Native. All Credits for code go to https://github.com/Savinvadim1312
